@@ -1,0 +1,36 @@
+body {
+	background-color: pink;
+}
+
+.outer_circle {
+    height:650px;
+    line-height:400px;
+    width:650px;
+    border-radius:50%;
+    background-color:#000000;
+    position:relative;
+    margin:0 auto;
+}
+
+.outer_circle p {
+    text-align:center;
+    color:white;
+    padding: 3.5cm 3.5cm 3.5cm 3.5cm;
+    font-size: 100px;
+    font-family: "Courier New";
+}
+
+.circle {
+    background-color:#aeaeae;
+    border-radius:50%;
+    height:150px;
+    line-height:100px;
+    width:150px;
+    position:absolute;
+    margin:10px;
+    text-align:center;
+}
+
+a {
+    font-family: "Courier New";
+}
